@@ -1,2 +1,2 @@
 # smart-brain-api
-Creating node.js server for smart brain project
+Creating Node.js server for the smart-brain project
