@@ -2,6 +2,7 @@ const express = require('express');
 const bodyParser = require('body-parser');
 const bycrypt = require('bcrypt-nodejs');
 const cors = require('cors');
+const knex = require('knex')
 
 const app = express();
 app.use(bodyParser.json());
